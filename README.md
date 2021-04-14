@@ -21,3 +21,9 @@ Steps To Join:
 - Start Contributing! 
 
 # IMPORTANT: After You Join The Organization, Navigate to The People's Section
+
+![People Section](https://github.com/PatternHouse/Join_PatternHouse/blob/main/assets/People.png)
+
+And Change the Visibility to **Public**
+
+![Publicize](https://github.com/PatternHouse/Join_PatternHouse/blob/main/assets/Publicize.png)
