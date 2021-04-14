@@ -19,3 +19,5 @@ Steps To Join:
 - Add a response on Why Do You Want To Join The Organzition
 - Wait for an Invite from Us on your EmailID/Github
 - Start Contributing! 
+
+# IMPORTANT: After You Join The Organization, Navigate to The People's Section
