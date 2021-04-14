@@ -1,8 +1,11 @@
 # Welcome To PatternHouse
 
+<img align="center" src="https://github.com/PatternHouse/Join_PatternHouse/blob/main/assets/PatterHouse.jpeg" alt="PatternHouse">
+
 ## Be a part of the community on Gitter:
 
 [![Join the chat at https://gitter.im/Printing-Pattern-Programs/community](https://badges.gitter.im/Printing-Pattern-Programs/community.svg)](https://gitter.im/Printing-Pattern-Programs/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 
 # How Can I Join The Organization?
 
