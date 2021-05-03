@@ -1,7 +1,7 @@
 # Welcome To PatternHouse
 
 <img align="left" src="https://github.com/PatternHouse/Join_PatternHouse/blob/main/assets/PatterHouse.jpeg" alt="PatternHouse">
-<img align="right" src="https://github.com/PatternHouse/Join_PatternHouse/blob/main/assets/PatternHouse%20Logo.png" alt="PatternHouse">
+<img align="" src="https://github.com/PatternHouse/Join_PatternHouse/blob/main/assets/PatternHouse%20Logo.png" alt="PatternHouse">
 https://github.com/PatternHouse/Join_PatternHouse/blob/main/assets/PatternHouse%20Logo.png
 
 ## Be a part of the community on Gitter:
