@@ -15,7 +15,7 @@
 
 Steps To Join:
 - Create an Issue in this repository
-- Mention Your Github EmailID and Github Username
+- Mention Your Github Username
 - Add a response on Why Do You Want To Join The Organzition
 - Wait for an Invite from Us on your EmailID/Github
 - Start Contributing! 
