@@ -9,4 +9,4 @@ jobs:
     - uses: actions/first-interaction@v1
       with:
         repo-token: ${{ secrets.GITHUB_TOKEN }}
-        issue-message: 'Welcome to PatterHouse! We thank you for checking out our project and taking your time to write this issue. We will address this issue very soon.'
+        issue-message: 'Welcome to openAOD! We thank you for checking out our project and taking your time to write this issue. We will address this issue very soon.'
