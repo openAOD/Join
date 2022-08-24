@@ -6,6 +6,7 @@
 
 [![Join the chat at https://gitter.im/Printing-Pattern-Programs/community](https://badges.gitter.im/Printing-Pattern-Programs/community.svg)](https://gitter.im/Printing-Pattern-Programs/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
+## Join our Discord Server: https://discord.gg/C4p6RCG2
 
 # How Can I Join The Organization?
 
